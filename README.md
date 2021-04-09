@@ -11,7 +11,7 @@ If you need to get all ip addr in private network
 
 	./scanNet
 
-If you need to get new ip addr in private network
+If you need to get new ip addr in private network add the old ip addresses to a file and pass it as an argument
 
 	./scanNet host.txt
 
